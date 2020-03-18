@@ -2,7 +2,10 @@
 In this fork, the notebooks will be edited for setting up on Google Colab. Pull requests and issues with suggestions are welcome!
 
 ## Direct links
-- https://colab.research.google.com/github/WittmannF/course-v4/blob/master/nbs/01_intro.ipynb
+- [01_intro.ipynb](https://colab.research.google.com/github/WittmannF/course-v4/blob/master/nbs/01_intro.ipynb)
+
+Alternativelly, you can head to the notebook on github and click on "Open in Colab":
+
 
 
 ### Reminder to myself
