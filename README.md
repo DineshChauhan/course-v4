@@ -1,3 +1,4 @@
-# course-v4
+# course-v4 - Fork for Colab users
 
-This will be released in July 2020. In the meantime, please use course-v3, unless you are in the live course.
+## Direct links for running on Google Colab:
+- https://colab.research.google.com/github/WittmannF/course-v4/blob/master/nbs/01_intro.ipynb
