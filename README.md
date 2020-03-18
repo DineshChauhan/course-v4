@@ -2,6 +2,7 @@
 In this fork, the notebooks will be edited for setting up on Google Colab. Pull requests and issues with suggestions are welcome! UPDATE: Just noticed it is not possible to open issues in forks, but feel free to contact me in the fastai forum: @wittmannf.
 
 ## Direct links for opening on Colab
+The following links will open the notebooks that have been set up so far directly on Google Colab:
 - [01_intro.ipynb](https://colab.research.google.com/github/WittmannF/course-v4/blob/master/nbs/01_intro.ipynb)
 
 Alternativelly, you can head to the folder [nbs](https://github.com/WittmannF/course-v4/tree/master/nbs) above, select the the notebook and click in "Open in Colab" (only those covered in class so far will have the button):
