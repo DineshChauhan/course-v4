@@ -9,8 +9,10 @@ Alternativelly, you can head to the folder [nbs](https://github.com/WittmannF/co
 
 ![Screen Shot 2020-03-18 at 01 37 11](https://user-images.githubusercontent.com/5733246/76957621-e0bccd00-68f4-11ea-945b-c74311464229.png)
 
+## Updates
+- In order to make it easier to merge updates from the original branch into the fork, all of the adapted notebooks will be renamed adding the suffix `_colab.ipynb` in the end. 
 
-### Reminder to myself
+## Reminder to myself
 Keep fork up to date:
 - https://gist.github.com/CristinaSolana/1885435
 - https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
