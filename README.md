@@ -14,3 +14,4 @@ Alternativelly, you can head to the folder [nbs](https://github.com/WittmannF/co
 Keep fork up to date:
 - https://gist.github.com/CristinaSolana/1885435
 - https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
+- Here's a great tool for merging jupyter files: https://github.com/jupyter/nbdime [instructions](https://github.com/jupyter/nbdime/issues/467)
