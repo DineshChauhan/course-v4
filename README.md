@@ -18,3 +18,4 @@ Alternativelly, you can head to the folder [nbs](https://github.com/WittmannF/co
 Keep fork up to date:
 - https://gist.github.com/CristinaSolana/1885435
 - https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
+- Merging conflicted notebooks: https://youtu.be/Hrs7iEYmRmg?t=774
